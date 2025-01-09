@@ -1,0 +1,1 @@
+# Next-intl-Design
